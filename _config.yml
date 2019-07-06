@@ -90,6 +90,32 @@ feed:
 #   host: guoyanjun.top ## 在百度站长平台中注册的域名
 #   token: your_token ## 请注意这是您的秘钥， 请不要发布在公众仓库里!
 #   path: baidu_urls.txt ## 文本文档的地址， 新链接会保存在此文本文档里
+
+# live2d看板娘
+# 模型预览图 https://huaji8.top/post/live2d-plugin-2.0/
+# 另一套功能更强的看板娘 https://zhangshuqiao.org/2018-07/%E5%9C%A8%E7%BD%91%E9%A1%B5%E4%B8%AD%E6%B7%BB%E5%8A%A0Live2D%E7%9C%8B%E6%9D%BF%E5%A8%98/
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: live2d-widget-model-koharu
+    # scale: 2
+    # hHeadPos: 0.5
+    # vHeadPos: 0.618
+  display:
+    position: right // 模型在网页显示位置
+    width: 250
+    height: 500
+    hOffset: 20
+    vOffset: 50
+  mobile:
+    show: true
+
 ## Themes: https://hexo.io/themes/
 theme: next
 
