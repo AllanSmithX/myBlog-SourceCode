@@ -4,7 +4,7 @@
 
 # Site
 title: Open the window
-subtitle: Keep It Simple,Stupid. 
+subtitle: Keep It Simple,Stupid.
 description: web c++
 keywords: cloud, big data, machine learning, AI, hadoop, blog, hexo
 author: AllanSmithX
@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-# url: http://yoursite.compost_asset_folder
+url: https://allansmithx.github.io/
 # root: /
 # permalink: :year/:month/:day/:title/
 # permalink_defaults:
@@ -109,10 +109,10 @@ live2d:
     # vHeadPos: 0.618
   display:
     position: right // 模型在网页显示位置
-    width: 250
-    height: 500
-    hOffset: 20
-    vOffset: 50
+    width: 120
+    height: 250
+    hOffset: 10
+    vOffset: 25
   mobile:
     show: true
 
