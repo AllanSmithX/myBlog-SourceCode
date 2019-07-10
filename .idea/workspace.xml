@@ -4,15 +4,14 @@
     <list default="true" id="e9fed8f2-24dd-4540-b58f-dcfbb71c39ca" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/themes/next/source/images/alipay.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/next/source/images/wechatpay.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/jacman" beforeDir="false" afterPath="$PROJECT_DIR$/themes/jacman" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/jacman/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/jacman/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/jacman/source/img/author.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/themes/jacman/source/img/author.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/next/source/images/~avatar.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/languages/zh-Hans.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/languages/zh-Hans.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/layout/_partials/footer.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_partials/footer.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_custom/sidebar.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_custom/sidebar.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/layout/_partials/head/head.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_partials/head/head.swig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next/source/images/avatar.gif" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/images/avatar.gif" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/node_modules/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,13 +23,68 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="143" column="23" selection-start-line="143" selection-end-line="143" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/next/layout/_partials/head/head.swig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>url</find>
+      <find>url:</find>
+      <find>search:</find>
+      <find>xiongzhang</find>
+      <find>baidu_tongji</find>
+      <find>baidu_</find>
+      <find>baidu_site_verification</find>
+      <find>baidu-site-verificatio</find>
+      <find>baidu</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/next/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/next/layout/_partials/head/head.swig" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="911" />
-    <option name="y" value="66" />
-    <option name="width" value="1318" />
+    <option name="x" value="683" />
+    <option name="width" value="683" />
     <option name="height" value="706" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,6 +101,42 @@
               <item name="myBlog-SourceCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="myBlog-SourceCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="myBlog-SourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBlog-SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBlog-SourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBlog-SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBlog-SourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBlog-SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBlog-SourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBlog-SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="next" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBlog-SourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBlog-SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="next" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myBlog-SourceCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myBlog-SourceCode" type="462c0819:PsiDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="next" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -54,9 +144,20 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Opm_Git/web/client" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\myBlog-SourceCode\public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\myBlog-SourceCode\source\_posts" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -100,18 +201,23 @@
       <workItem from="1548815843380" duration="685000" />
       <workItem from="1549933432174" duration="18000" />
       <workItem from="1549933475466" duration="104000" />
+      <workItem from="1562559551308" duration="2283000" />
+      <workItem from="1562603875302" duration="1302000" />
+      <workItem from="1562645624036" duration="3659000" />
+      <workItem from="1562732859559" duration="1190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="807000" />
+    <option name="totallyTimeSpent" value="9241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1034" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49942988" visible="true" weight="0.16859852" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74159294" visible="true" weight="0.15964173" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" sideWeight="0.5005701" side_tool="true" visible="true" weight="0.16859852" />
+      <window_info id="npm" order="2" sideWeight="0.2584071" side_tool="true" visible="true" weight="0.15964173" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -121,9 +227,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295325" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.35575828" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -131,5 +237,79 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/baidu_verify_NAKupSI3nN.html" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/index.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="143" column="23" selection-start-line="143" selection-end-line="143" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/layout/_partials/head/head.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
